@@ -14,7 +14,7 @@
 
 🛠️ **Skills**
 - Programming: HTML, CSS, Javascript
-- Frameworks: React.js, Next.js, Node.js
+- Frameworks: React.js, Next.js, Node.js, Tailwind CSS
 - Tools: Git, Linux
 
 ---
